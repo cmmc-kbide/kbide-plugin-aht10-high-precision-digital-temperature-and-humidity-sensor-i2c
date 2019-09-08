@@ -5,13 +5,13 @@
   "description": "aht10-high-precision-digital-temperature-and-humidity-sensor-i2c plugin for KB-IDE",
   "category":"",
   "git": "https://github.com/cmmc-kbide/kbide-plugin-aht10-high-precision-digital-temperature-and-humidity-sensor-i2c/",
-  "author": "cmmakerclub",
+  "author": "er9xto",
   "email": "",
   "url": "https://github.com/cmmc-kbide/kbide-plugin-aht10-high-precision-digital-temperature-and-humidity-sensor-i2c/",
   "version": "1.0.0",
   "board" : "",
   "platform": ["arduino-esp32"],
-  "license": "",
+  "license": "https://github.com/Thinary/AHT10",
   "image" : "/static/display.png",
   "homepage": "http://www.kbide.org"
 }

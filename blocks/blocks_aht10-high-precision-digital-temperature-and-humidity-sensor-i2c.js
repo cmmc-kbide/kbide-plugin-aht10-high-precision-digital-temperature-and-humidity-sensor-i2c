@@ -2,10 +2,8 @@ Blockly.Blocks['aht10'] = {
   init: function() {
     this.appendDummyInput()
         .appendField(new Blockly.FieldVariable("AHT101", null,["Plugin.AHT10"], ["Plugin.AHT10"]), "AHT101")
-        .appendField("begin");
-    this.appendValueInput("AHT10ADD")
-        .setCheck(["uint8_t", "Number"])
-        .appendField("ADD 0x");
+        .appendField("begin ADD")
+        .appendField(new Blockly.FieldTextInput("0x39"), "AHT10ADD");
     this.appendValueInput("AHT10SDA")
         .setCheck("Number")
         .appendField("SDA PIN");

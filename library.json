@@ -3,7 +3,7 @@
   "title": "aht10-high-precision-digital-temperature-and-humidity-sensor-i2c",
   "keywords": "aht10-high-precision-digital-temperature-and-humidity-sensor-i2c, esp32, esp8266, arduino",
   "description": "aht10-high-precision-digital-temperature-and-humidity-sensor-i2c plugin for KB-IDE",
-  "category":"",
+  "category":"Sensors",
   "git": "https://github.com/cmmc-kbide/kbide-plugin-aht10-high-precision-digital-temperature-and-humidity-sensor-i2c/",
   "author": "er9xto",
   "email": "",
